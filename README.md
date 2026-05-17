@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Reviews Prediction System
+# 🍽️ Restaurant Reviews Prediction System Using NLP & Scikit-learn
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -250,7 +250,7 @@ http://localhost:5000
 
 ## 👨‍💻 Author
 
-**Aditya Bobade**  
+**Aditya Bobade**
 Data Analyst | Python | MySQL | Power BI | Machine Learning | NLP
 
 [![GitHub](https://img.shields.io/badge/GitHub-adityabobade7900-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityabobade7900)
