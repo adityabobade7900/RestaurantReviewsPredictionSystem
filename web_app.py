@@ -5,9 +5,7 @@ import re
 from nltk.stem import PorterStemmer
 from flask import Flask, request, render_template
 
-
 app = Flask(__name__)
-
 
 f1 = open('cvmodel', 'rb')
 cv = pickle.load(f1)
