@@ -170,10 +170,9 @@ def take_review():
     global variables
 
     w = Toplevel()
-    w.geometry("1200x760")
+    w.state('zoomed')
     w.configure(bg=BG)
     w.title("Restaurant Review — Submit Review")
-    w.resizable(False, False)
 
     # ── Header ──────────────────────────────────────────────────────
     hdr = Frame(w, bg=SURFACE)
